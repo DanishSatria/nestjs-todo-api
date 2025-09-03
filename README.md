@@ -7,7 +7,7 @@ Proyek ini dibuat untuk memenuhi tugas pembuatan API Todo List, dengan endpoint 
 ---
 
 ## 👤 Identitas
-- Nama: **Danish Satria**  
+- Nama: **Danish Satria Indie**  
 - Kelas: **XI RPL 1**
 
 ---
